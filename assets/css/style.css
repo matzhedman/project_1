@@ -11,6 +11,7 @@ body {
     float: left;
     margin-left: 20px;
     padding-left: 20px;
+    text-transform: uppercase;
 }
 
 /* menu */
@@ -35,25 +36,59 @@ a {
 
 /* front section and front-image */
 #front-section {
-    height: 600px;
+    height: 650px;
     width: 100%;
     overflow: hidden;
     position: relative;
+    padding: 10px 0px 10px;
 }
 
 #front-image {
     background: url(../images/martin-luther-king-155551.png) no-repeat center center;
-    height: 600px;
+    height: 650px;
     width: 100%;
     
 }
 
-/* second page */
-
-#second-page {
-    
+/* index middle section */
+#index-mid {
+    height: 300px;
+    width: 100%;
 }
-#learn-more {
+
+#mid-text {
+    text-align: center;
+}
+
+/* index middle left */
+#mid-left {
+    height: 100%;
+    width: 50%;
+    float: left;
+    text-align: center;
+    background-color: green;
+}
+
+/* index middle right */
+#mid-right {
+    height: 100%;
+    width: 50%;
+    float: right;
+    text-align: center;
+    background-color: red;
+}
+
+
+/* learn page */
+#second-page {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+/* speech page */
+#third-page {
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -61,3 +96,11 @@ a {
 }
 
 
+
+
+/* footer */
+footer {
+    height: 150px;
+    padding-top: 80px;
+    text-align: center;
+}
