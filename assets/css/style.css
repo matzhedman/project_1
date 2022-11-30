@@ -10,12 +10,14 @@ body {
 #logo {
     float: left;
     margin-left: 20px;
+    padding-left: 20px;
 }
 
 /* menu */
 #menu li {
     float: right;
     margin: 30px;
+    padding-right: 20px;
 }
 
 #logo #menu {
@@ -29,5 +31,19 @@ ul li {
 a {
     text-decoration: none;
     color: inherit;
+}
 
+/* front section and front-image */
+#front-section {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#front-image {
+    background: url(../images/martin-luther-king-155551.png) no-repeat center center;
+    height: 600px;
+    width: 100%;
+    
 }
