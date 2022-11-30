@@ -4,6 +4,7 @@ body {
     font-family: Ubuntu, sans-serif;
     font-weight: 300;
     color:rgb(20, 19, 19);
+    margin: 0;
 }
 
 /* logo */
@@ -40,13 +41,15 @@ a {
     width: 100%;
     overflow: hidden;
     position: relative;
-    padding: 10px 0px 10px;
+   
 }
 
 #front-image {
-    background: url(../images/martin-luther-king-155551.png) no-repeat center center;
     height: 650px;
     width: 100%;
+    background: url(../images/martin-luther-king-155551.png) no-repeat center center;
+  
+   
 }
 
 #cover-text {
@@ -54,7 +57,7 @@ a {
     font-family: Roboto, sans-serif;
     text-transform:none;
     letter-spacing: 6px;
-    background-color: rgba(133, 167, 151, 0.4);
+    background-color: rgba(133, 167, 151, 0.8);
 
     width: 300px;
     height: 200px;
@@ -68,7 +71,12 @@ a {
 
     position: absolute; 
 }
-
+#front-div {
+    text-align: center;
+    padding: 30px 100px 30px 100px;
+    
+    
+}
 
 /* index middle section */
 #index-mid {
