@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Ubuntu:wght@300&display=swap');
+
+body {
+    font-family: Ubuntu, sans-serif;
+    font-weight: 300;
+    color: #2f4f4f;
+}
+
+/* logo */
+#logo {
+    float: left;
+    margin-left: 20px;
+}
+
+/* menu */
+#menu li {
+    float: right;
+    margin: 30px;
+}
+
+#logo #menu {
+    line-height: 75px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+
+}
