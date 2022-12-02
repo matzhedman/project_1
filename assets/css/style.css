@@ -205,3 +205,22 @@ footer {
 
 
 /* flex-direction: column;*/
+
+
+/* media queries */
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin: 0;
+        
+        line-height: 25px;
+        padding: 0;
+    }
+
+ 
+  
+
+  
+
+}
