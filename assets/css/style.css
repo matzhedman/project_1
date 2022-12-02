@@ -121,7 +121,7 @@ a {
 .signup-form {
     margin: 100px 0 0 0;
     color:#000;
-    background-color: rgba(133, 167, 151, 0.7);
+    background-color: rgba(133, 167, 151, 0.464);
     max-width: 400px;
     position: absolute;
     right: 2%;
@@ -135,13 +135,13 @@ a {
 }
 
 .text-input {
-    background: transparent;
+    background: rgb(252, 251, 249);
     color:#000;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px;
-    border: 1px solid rgb(230, 226, 213);
-    border-radius:2px;
+    border: 0px;
+    border-radius:4px;
 }
 
 .text-input:hover {
@@ -153,9 +153,9 @@ a {
     border-radius:2px;
     padding: 15px 32px 15px 32px;
     text-align: center;
-    font-size: 100%;
+    font-size: 120%;
     background-color: rgba(133, 167, 151, 0.9);
-    color:#000;
+    color:rgb(252, 251, 249);
     display:block;
     float:right;
 }
