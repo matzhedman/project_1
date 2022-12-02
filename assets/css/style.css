@@ -41,15 +41,12 @@ a {
     width: 100%;
     overflow: hidden;
     position: relative;
-   
 }
 
 #front-image {
     height: 650px;
     width: 100%;
     background: url(/assets/images/martin-luther-king-155551.webp) no-repeat center center;
-  
-   
 }
 
 #cover-text {
@@ -74,58 +71,20 @@ a {
 
     position: absolute; 
 }
-#front-div {
+
+/* info at index page */
+#front-div-flex {
+    display: flex;
     margin-top: 20px;
     text-align: center;
     padding: 40px 220px 40px 220px;
-    background-color: rgba(243, 240, 228, 1);
-    
-    
+    background-color: rgba(243, 240, 228, 1);    
 }
 
-/* index middle section */
-#index-mid {
-    height: 300px;
-    
-}
 
-#mid-text {
-    text-align: center;
-}
 
-/* index middle left */
-#mid-left {
-    padding-top: 30px;
-    width: 50%;
-    float: left;
-    
-    background-color: green;
-}
-
-.mid-left-text {
-    width: 60%;
-    float: right;
-    margin-bottom: 50px;
-}
-
-/* index middle right */
-#mid-right {
-    padding-top: 30px;
-    width: 50%;
-    float: right;
-    
-    background-color: red;
-}
-
-.mid-right-text {
-    width: 60%;
-    float: left;
-    margin-bottom: 50px;
-
-}
 
 /* Form */
-
 .form-section {
     clear: left;
     background: url(/assets/images/dr-martin-luther-king-jr-6060955.webp);
@@ -181,44 +140,20 @@ a {
 
 
 /* speech page */
-#third-page {
-    height: 3200px;
+.flex-container-text {
+    width: 90%;
+}
+
+.maybe {
     width: 100%;
-    overflow: hidden;
-    position: relative;
 }
 
-#speech {
-    font-family: Roboto, sans-serif;
-    padding-left: 50px;
+.paragraph {
+    width: 20%;
 }
 
-#actualspeech {
-    text-align:center;
-    font-size: 20px;
-    padding: 0px 40px 0px 40px;
-}
-
-#speechstyle {
-    font-size: 25;
-    font-style: oblique;
-}
-
-#speech-dream {
-    font-size: 25;
-    font-style: italic;
-    letter-spacing: 2px;
-}
-
-#text-left {
-    text-align: left;
-    padding-right: 50%;
-    
-}
-
-#text-right {
-    text-align: right;
-    padding-left: 50%;
+.image {
+    width: 20%;
 }
 
 
@@ -229,3 +164,6 @@ a {
     padding-top: 80px;
     text-align: center;
 }
+
+
+/* flex-direction: column;*/
