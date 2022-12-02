@@ -131,16 +131,16 @@ a {
     background: url(/assets/images/dr-martin-luther-king-jr-6060955.webp);
     background-size: cover;
     background-position: center;
-    height: 1200px;
+    height: 800px;
 }
 
 .signup-form {
-    margin: 150px 10% 0 0;
+    margin: 100px 5% 0 0;
     color:#fff;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
     position: absolute;
-    left: 10%;
+    right: 2%;
     padding:30px;
 }
 
