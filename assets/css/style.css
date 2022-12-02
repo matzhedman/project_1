@@ -82,15 +82,32 @@ a {
 
 /* info at index page */
 #front-div-flex {
+    height: 300px;
     display: flex;
     margin-top: 20px;
     text-align: center;
-    padding: 40px 220px 40px 220px;
-    background-color: rgba(243, 240, 228, 1);    
+    padding: 40px 50px 40px 50px;
+    background-color:rgb(230, 226, 213);    
 }
 
+.front-div-inline {
+    width: 30%;
+    display: inline;
+    margin-inline: 1%;
+    text-align: justify;
+    padding: 0px 15px 0px 15px;
+    border-radius: 5px;
+    background-color:rgba(243, 240, 228, 1);  
+    
+}
 
-
+.front-div-inline > h2 {
+    text-align: center;
+    font-family: Ubuntu, sans-serif;
+    font-size: 30px;
+    
+    
+}
 
 
 /* Form */
