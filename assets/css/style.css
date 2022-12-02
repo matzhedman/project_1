@@ -233,9 +233,41 @@ footer {
     .front-div-inline {
         padding: 0;
     }
-
-
-
   
 
 }
+ @media screen and (max-width: 800px) {
+    #logo {
+        padding: 0;
+    }
+    
+    #menu li {
+        margin-right: 0;
+
+    }
+
+    #front-section {
+        height: 400px;
+    }
+
+    #front-image {
+        background-size: 1000px;
+        
+    }
+    #cover-text {
+        width: 35%;
+        font-size: 100%;
+        height: fit-content;
+        text-align: left;
+        padding: 0 0 0 20px;
+        
+    }
+
+    .links-further {
+        padding: 0;
+    }
+
+    .links-further > li {
+        margin-inline: 20px;
+    }
+ }
