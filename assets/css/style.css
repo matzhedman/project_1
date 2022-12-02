@@ -35,6 +35,14 @@ a {
     color: inherit;
 }
 
+#menu a:hover {
+    border-bottom: 1px solid rgba(133, 167, 151, 0.9);
+}
+
+.active {
+    border-bottom: 1px solid rgba(133, 167, 151, 0.9);
+}
+
 /* front section and front-image */
 #front-section {
     height: 650px;
@@ -80,6 +88,7 @@ a {
     padding: 40px 220px 40px 220px;
     background-color: rgba(243, 240, 228, 1);    
 }
+
 
 
 
@@ -159,11 +168,22 @@ a {
 
 
 /* links further */
-.links-further {
+footer {
     height: 150px;
-    padding-top: 80px;
+    margin-top: 80px;
+}
+
+.links-further {
     text-align: center;
 }
+
+.links-further > li {
+    display: inline;
+    margin-inline: 40px;
+    
+}
+
+
 
 
 /* flex-direction: column;*/
