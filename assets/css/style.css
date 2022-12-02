@@ -47,7 +47,7 @@ a {
 #front-image {
     height: 650px;
     width: 100%;
-    background: url(../images/martin-luther-king-155551.png) no-repeat center center;
+    background: url() no-repeat center center;
   
    
 }
@@ -75,8 +75,10 @@ a {
     position: absolute; 
 }
 #front-div {
+    margin-top: 20px;
     text-align: center;
-    padding: 30px 100px 30px 100px;
+    padding: 40px 220px 40px 220px;
+    background-color: rgba(243, 240, 228, 1);
     
     
 }
