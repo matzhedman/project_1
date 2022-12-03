@@ -4,48 +4,49 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
 ## Features
 ### Existing features
 * #### Navigation bar
-    ![Navigation bar](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2014.32.00.png)
+![Navigation bar](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2014.32.00.png)
     * At the top of all three pages there is a navigation bar that includes "Home", "The Speech" and "Learn More". It will show which section you are currently on by underlining active page.
     * It is responsive and will make the navigation easy.
 
 * #### Landing page
-    ![Landing page](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.01.43.png)
+![Landing page](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.01.43.png)
     * This section includes a big image of M.L King and a quote on top of it.
 
 * #### Info down under
-    ![Info](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.01.58.png)
+![Info](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.01.58.png)
     * This section contains of three sections of short information about M.L King; "Background", "Famous for" and "About the speech".
     * It will be viewed as three columns down to 950px wide. In smaller screens they will appear in a row down.
 
 * #### Footer
-    ![Footer](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.02.06.png)
+![Footer](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.02.06.png)
     * The last section of this page includes a link to Wikipedia [about M.L King](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) and a link to [The Speech](https://youtu.be/smEqnnklfYs) at Youtube.
     * They will open in a new window.
 
 * #### The speech
-    ![First section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.23.48.png)
-    ![Second section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.13.png)
-    ![Third section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.31.png)
-    ![Fourth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.42.png)
-    ![Fifth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.53.png)
-    ![Sixth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.30.18.png)
-    ![Last section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.25.35.png)
+![First section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.23.48.png)
+![Second section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.13.png)
+![Third section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.31.png)
+![Fourth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.42.png)
+![Fifth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.53.png)
+![Sixth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.30.18.png)
+![Last section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.25.35.png)
     * This page contains the whole speech of M.L King which he held at Lincoln Memorial in 1963, Washington D.C.
     * Images from [Pixabay](https://pixabay.com/) gives the page a more appealing touch.
     
 
 * #### Learn more
-    ![Form](/assets/images/images_readme_tp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.48.08.png)
+![Form](/assets/images/images_readme_tp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.48.08.png)
     * This page includes a background image of M.L King and a form.
     * The form has three fields that are required to contain correct information, such as a correct email-address.
     * It also contains an Submit button that will give you a "confirmed"-message if you have filled in all the blanks.
 
 * #### Response
-    ![Response message](/assets/images/images_readme_lastp/Ska%CC%88rmavbild%202022-12-03%20kl.%2022.40.11.png)
+![Response message](/assets/images/images_readme_lastp/Ska%CC%88rmavbild%202022-12-03%20kl.%2022.40.11.png)
     * After submitting the form this message will occur.
     * Clicking on the "Go to Homepage" will take you back to the first page.
 
 #### Features to implement
+* A "Take me to the top"-button at the second page (The Speech)
 
 ## Testing
 #### Validator testing
@@ -73,4 +74,6 @@ https://matzhedman.github.io/project_1/index.html
 
 #### Media
 * All images on this website are taken from [Pixabay](https://pixabay.com/)
+
+* Credits to my mentor for guidance through the project!
 
