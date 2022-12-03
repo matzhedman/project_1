@@ -189,7 +189,7 @@ a {
 /* Form response */
 
 .form-response {
-    
+    text-align: center;
     clear: left;
     background: url('../images/dr-martin-luther-king-jr-6060955.webp');
     background-size: cover;
@@ -202,6 +202,22 @@ a {
     margin: 100px 120px 0 0;
     font-size: 20px;
     
+}
+
+.home-button {
+    margin-top:20px;
+    border-radius:10px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    font-size: 90%;
+    background-color: rgba(133, 167, 151, 0.9);
+    border: none;
+    
+}
+
+.home-button:hover {
+    background-color:rgb(164, 206, 187);
+    color:rgba(255, 255, 255, 0.9);
 }
 
 /* links further */
