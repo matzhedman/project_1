@@ -195,6 +195,10 @@ footer {
     margin-inline: 40px;    
 }
 
+.links-further a:hover {
+    border-bottom: 1px solid rgba(133, 167, 151, 0.9);
+}
+
 
 /* media queries */
 @media screen and (max-width: 950px) {
