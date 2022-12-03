@@ -116,11 +116,16 @@ a {
 .flex-container p {
     width: 70%;
     padding-right: 20px;
+    
 }
 .flex-container img {
     width: 30%;
     height: auto;
 }
+.paragraph {
+    font-size: 20px;
+}
+
 .large-quote {
     justify-content: space-around;
     margin: auto;
