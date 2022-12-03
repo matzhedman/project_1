@@ -352,3 +352,14 @@ footer {
     }
     
  }
+
+
+ /* video */
+ #video {
+    margin: 0 auto;
+    display: inline-grid;
+ }
+
+ #video h2 {
+    text-align: center;
+ }
