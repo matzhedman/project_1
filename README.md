@@ -4,7 +4,7 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
 ## Features
 ### Existing features
 * #### Navigation bar
-        put a screenshot here
+    ![Navigation bar](/assets/images/images_readme/Ska%CC%88rmavbild%202022-12-03%20kl.%2014.32.00.png)
     * At the top of all three pages there is a navigation bar that includes "Home", "The Speech" and "Learn More". It will show which section you are currently on by underlining active page.
     * It is responsive and will make the navigation easy.
 
@@ -41,8 +41,22 @@ css
 #### Unfixed bugs
 
 ## Deployment
+* The website was deployed using GitHub by using following steps:
+    * In the GitHub repository for this project, click on "Settings".
+    * Select "Branches" in the menu to the left, under "Code and automation".
+    * Find the headline Branches and select "Main" in the dropdown menu, automatically it will generate a link to the website in a few seconds. 
+The link can also be found here: 
+https://matzhedman.github.io/project_1/index.html
 
 ## Credits
 #### Content
+* The historical information are taken from [Wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+* The text at the Speech page are taken from [U.S. MISSION KOREA](https://kr.usembassy.gov/martin-luther-king-jr-dream-speech-1963/)
+* The font style, Ubuntu and Roboto, was taken from [Google Fonts](https://fonts.google.com/).
+* The icons in the footer was taken from [Font Awesome](https://fontawesome.com/).
+* Instructions how to create the form was taken from the [Code Institute](https://learn.codeinstitute.net/dashboard) example ["Running project"](https://code-institute-org.github.io/love-running-2.0/index.html).
+* Information for responsive design was found at [W3Schools](https://www.w3schools.com/css/css_rwd_intro.asp)
+
 #### Media
+* All images on this website are taken from [Pixabay](https://pixabay.com/)
 
