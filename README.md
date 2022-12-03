@@ -19,13 +19,17 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
 
 * #### Footer
         screenshot
-    * The last section of this page includes a link to Wikipedia [about M.L King](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) and a link to [The Speech](https://youtu.be/smEqnnklfYs) at Youtube
+    * The last section of this page includes a link to Wikipedia [about M.L King](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) and a link to [The Speech](https://youtu.be/smEqnnklfYs) at Youtube.
+    * They will open in a new window.
 
-#### The speech
+* #### The speech
         screenshots
 
-#### Learn more
+* #### Learn more
         screenshots
+    * This page includes a background image of M.L King and a form.
+    * The form has three fields that are required to contain correct information, such as a correct email-address that includes an "@".
+    * It also contains an Submit button that will ???
 
 #### Features to implement
 
