@@ -41,8 +41,9 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
     * It also contains an Submit button that will give you a "confirmed"-message if you have filled in all the blanks.
 
 * #### Response
-    ![Response message](/assets/images/images_readme_lastp/Ska%CC%88rmavbild%202022-12-03%20kl.%2022.19.14.png)
-    * After submitting the form this message will occur
+    ![Response message](/assets/images/images_readme_lastp/Ska%CC%88rmavbild%202022-12-03%20kl.%2022.40.11.png)
+    * After submitting the form this message will occur.
+    * Clicking on the "Go to Homepage" will take you back to the first page.
 
 #### Features to implement
 
