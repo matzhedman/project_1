@@ -186,6 +186,24 @@ a {
     color:rgba(255, 255, 255, 0.9);
 }
 
+/* Form response */
+
+.form-response {
+    
+    clear: left;
+    background: url('../images/dr-martin-luther-king-jr-6060955.webp');
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
+.form-response-right {
+    float: right;
+    margin: 100px 120px 0 0;
+    font-size: 20px;
+    
+}
+
 /* links further */
 footer {
     height: 150px;
