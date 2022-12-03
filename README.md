@@ -9,16 +9,16 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
     * It is responsive and will make the navigation easy.
 
 * #### Landing page
-        screenshot
+    ![Landing page](/assets/images/images_readme/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.01.43.png)
     * This section includes a big image of M.L King and a quote on top of it.
 
 * #### Info down under
-        screenshot
+    ![Info](/assets/images/images_readme/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.01.58.png)
     * This section contains of three sections of short information about M.L King; "Background", "Famous for" and "About the speech".
     * It will be viewed as three columns down to 950px wide. In smaller screens they will appear in a row down.
 
 * #### Footer
-        screenshot
+    ![Footer](/assets/images/images_readme/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.02.06.png)
     * The last section of this page includes a link to Wikipedia [about M.L King](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) and a link to [The Speech](https://youtu.be/smEqnnklfYs) at Youtube.
     * They will open in a new window.
 
