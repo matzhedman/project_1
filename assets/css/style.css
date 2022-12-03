@@ -169,7 +169,7 @@ a {
     border-color:rgba(133, 167, 151, 0.9);
 }
 
-.join-button {
+.submit-button {
     margin-top:20px;
     border-radius:2px;
     padding: 15px 32px 15px 32px;
@@ -181,7 +181,7 @@ a {
     float:right;
 }
 
-.join-button:hover {
+.submit-button:hover {
     background-color:rgb(164, 206, 187);
     color:rgba(255, 255, 255, 0.9);
 }
