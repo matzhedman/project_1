@@ -127,7 +127,7 @@ a {
 /* Form */
 .form-section {
     clear: left;
-    background: url('../images/dr-martin-luther-king-jr-6060955.webp');
+    background: url('assets/images/dr-martin-luther-king-jr-6060955.webp');
     background-size: cover;
     background-position: center;
     height: 800px;
