@@ -211,8 +211,8 @@ span {
 
 .form-response-right {
     float: right;
-    margin: 100px 120px 0 0;
-    font-size: 20px;
+    margin: 180px 40px 0 0;
+    font-size: 17px;
     
 }
 
@@ -281,6 +281,11 @@ footer {
     .signup-form {
         width: 300px;
     }
+
+    .form-response-right {
+        width: 300px;
+        margin: 200px 25px 0 0;
+    }
 }
 
  @media screen and (max-width: 800px) {
@@ -335,5 +340,15 @@ footer {
         background-color: rgba(133, 167, 151, 0.8);
     }
 
+    .form-response-right {
+        width: 300px;
+        font-size: smaller;
+        margin: 10%;
+        background-color: rgba(179, 204, 192, 0.9);
+    }
+
+    .home-button {
+        margin: 20px;
+    }
     
  }
