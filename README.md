@@ -62,14 +62,19 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
     * Safari on iOS tablet: Image resolution changes at "The Speech"-page, both in landscape and portrait mode.
     * Chrome on iOS tablet: Image resolution changes at "The Speech"-page, both in landscape and portrait mode.
     ![landscape_tablet](/assets/images/responsive_on_tablet.png)
-
+* The website has been tested with Lighthouse
+![lighthouse](/assets/images/lighthouse.png)
+* The website has been tested with WAVE Evaluation tool
+![summary](/assets/images/wave_summary.png)
+![contrast](/assets/images/wave_contrast.png)
 
 
 
 #### Validator testing
 * Passed the HTML validator without errors
 ![html](/assets/images/html_validation.png)
-*Passed the CSS validator without errors
+
+* Passed the CSS validator without errors
 ![css](/assets/images/css_validation.png)
 
 #### Unfixed bugs
