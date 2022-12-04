@@ -50,9 +50,14 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
 * A "Take me to the top"-button at the second page (The Speech)
 
 ## Testing
+#### Testing process
+* The website has been tested and all elements such as navigation, links in the footer, Submit-button and so forth are all working as they should.
+* 
 #### Validator testing
-html
-css
+* Passed the HTML validator without errors
+![html](/assets/images/html_validation.png)
+*Passed the CSS validator without errors
+![css](/assets/images/css_validation.png)
 
 #### Unfixed bugs
 
