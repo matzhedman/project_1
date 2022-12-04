@@ -4,27 +4,27 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
 ## Features
 ### Existing features
 * #### Navigation bar
-![Navigation bar](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2014.32.00.png)
+![Navigation bar](/assets/images/navigation.png)
 * At the top of all three pages there is a navigation bar that includes "Home", "The Speech" and "Learn More". It will show which section you are currently on by underlining active page.
 
 * It is responsive and will make the navigation easy.
 
 * #### Landing page
-![Landing page](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.01.43.png)
+![Landing page](/assets/images/martin_thinking.png)
 * This section includes a big image of M.L King and a quote on top of it.
 
 * #### Info down under
-![Info](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.01.58.png)
+![Info](/assets/images/info_down_under.png)
 * This section contains of three sections of short information about M.L King; "Background", "Famous for" and "About the speech".
 * It will be viewed as three columns down to 950px wide. In smaller screens they will appear in a row down.
 
 * #### Footer
-![Footer](/assets/images/images_readme_fp/Ska%CC%88rmavbild%202022-12-03%20kl.%2015.02.06.png)
+![Footer](/assets/images/footer.png)
 * The last section of this page includes a link to Wikipedia [about M.L King](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) and a link to [The Speech](https://youtu.be/smEqnnklfYs) at Youtube.
-* They will open in a new window.
+* Both links will open in a new window.
 
 * #### The speech
-![First section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.23.48.png)
+![First section](/assets/images/)
 ![Second section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.13.png)
 ![Third section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.31.png)
 ![Fourth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.42.png)
