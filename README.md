@@ -1,6 +1,8 @@
 # Martin Luther King
 This website purpose is to give the viewer a basic knowledge about who Martin Luther King was. The website is focusing on the very famous speech that M.L King held at Lincoln Memorial, Washington D.C, U.S, the year of 1963.
 
+![Responsive](/assets/images/responsive.png)
+
 ## Features
 ### Existing features
 * #### Navigation bar
@@ -52,7 +54,18 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
 ## Testing
 #### Testing process
 * The website has been tested and all elements such as navigation, links in the footer, Submit-button and so forth are all working as they should.
-* 
+* The website has been tested on different units and browsers with following result (image resolution changes as it should not):
+    * Chrome on laptop: Works as it should (resolutions are correct etc.).
+    * Safari on laptop: Image resolution changes at "The Speech"-page.
+    * Safari on iOS mobile phone: Works as it should in both landscape and portrait mode (resolutions are correct, responsive shows correctly). Preferable in landscape, looks better. 
+    ![landscape_iphone](/assets/images/landscape_iphone.png)
+    * Safari on iOS tablet: Image resolution changes at "The Speech"-page, both in landscape and portrait mode.
+    * Chrome on iOS tablet: Image resolution changes at "The Speech"-page, both in landscape and portrait mode.
+    ![landscape_tablet](/assets/images/responsive_on_tablet.png)
+
+
+
+
 #### Validator testing
 * Passed the HTML validator without errors
 ![html](/assets/images/html_validation.png)
@@ -60,6 +73,7 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
 ![css](/assets/images/css_validation.png)
 
 #### Unfixed bugs
+* The images are not presented correctly on all common browsers and units. Works good on Safari using a iPhone XR, but not Safari on iPad Air for example. Looks good on Chrome using a laptop, but not Safari on same laptop.
 
 ## Deployment
 * The website was deployed using GitHub by using following steps:
