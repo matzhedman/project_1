@@ -24,25 +24,25 @@ This website purpose is to give the viewer a basic knowledge about who Martin Lu
 * Both links will open in a new window.
 
 * #### The speech
-![First section](/assets/images/)
-![Second section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.13.png)
-![Third section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.31.png)
-![Fourth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.42.png)
-![Fifth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.24.53.png)
-![Sixth section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.30.18.png)
-![Last section](/assets/images/images_readme_sp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.25.35.png)
+![First section](/assets/images/section_1.png)
+![Second section](/assets/images/section_2.png)
+![Third section](/assets/images/section_3.png)
+![Fourth section](/assets/images/section_4.png)
+![Fifth section](/assets/images/section_5.png)
+![Sixth section](/assets/images/section_6.png)
+![Last section](/assets/images/section_7.png)
 * This page contains the whole speech of M.L King which he held at Lincoln Memorial in 1963, Washington D.C.
 * Images from [Pixabay](https://pixabay.com/) gives the page a more appealing touch.
     
 
 * #### Learn more
-![Form](/assets/images/images_readme_tp/Ska%CC%88rmavbild%202022-12-03%20kl.%2021.48.08.png)
+![Form](/assets/images/form.png)
 * This page includes a background image of M.L King and a form.
 * The form has three fields that are required to contain correct information, such as a correct email-address.
 * It also contains an Submit button that will give you a "confirmed"-message if you have filled in all the blanks.
 
 * #### Response
-![Response message](/assets/images/images_readme_lastp/Ska%CC%88rmavbild%202022-12-03%20kl.%2022.40.11.png)
+![Response message](/assets/images/response_form.png)
 * After submitting the form this message will occur.
 * Clicking on the "Go to Homepage" will take you back to the first page.
 
